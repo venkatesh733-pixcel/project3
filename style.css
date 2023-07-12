@@ -1,0 +1,27 @@
+body{
+    margin: 200px 400px 1px 400px;
+    background-image: url(./images/ST360_03_MindFlayer.webp);
+}
+h2{
+    background-color:rgb(0, 90, 97);
+    display: flex;
+    justify-content: center;
+    font-style:italic;
+    color: aliceblue;
+    padding: 10px;
+}
+.main{
+    
+    display:grid;
+     grid-template-columns: 1fr 1fr;
+     justify-content: space-around;
+   
+background: rgba(0,0, 0, 0.66);
+     
+}
+h3{
+    display: flex;  
+    justify-content: center;  
+    color: white;
+    font-style: italic;
+    }
